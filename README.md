@@ -12,4 +12,4 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
 
 <h3 align="left">My Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhawkins28&show_icons=true&locale=en&layout=compact&title_color=1e3a8a&text_color=FFFFFF&bg_color=0891b2&bg&hide_border=true&show_icons=true" alt="mhawkins28" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhawkins28&show_icons=true&locale=en&layout=compact&title_color=1e3a8a&text_color=FFFFFF&icon_color=1e3a8a&bg_color=0891b2&bg&hide_border=true&show_icons=true" alt="mhawkins28" /></p>

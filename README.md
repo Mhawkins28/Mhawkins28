@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Megan Hawkins</h1>
+<h1>Hi 👋, I'm Megan Hawkins</h1>
 
 I started my coding journey at the end of 2021 and soon after, took the leap to change careers and attend bootcamp. In September 2022, I will be graduating with my certificate in software engineering from General Assembly, and I will never look back. I cannot wait to grow in this profession and continue to build more awesome projects!
 

@@ -15,7 +15,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <br />
             <img src="https://media.giphy.com/media/PRtLcJGaijlZJrj8qY/giphy.gif" width="100%" alt="PinIt"/>
         </a>
-       <p> A social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins.</p>
+       <p> <br><br><br>A full-stack MERN, social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Board Game Strategist :game_die:</h3>
@@ -24,7 +24,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <br />
             <img src="https://media.giphy.com/media/94qPTyXQNGrjgya2jH/giphy.gif" width="100%" alt="PinIt"/>
         </a>
-       <p> Allows the user to store all the boardgames in their arsenal so that they can keep track of them and be ready for any game night or party. There's flexibility to create, edit, or delete games, making this application unique to each user!</p>
+       <p> A full-stack app that allows the user to store all the boardgames in their collection so that they can keep track of them and be ready for any game night or party. There's flexibility to create, edit, or delete games, making this application unique to each user!</p>
     </td>
   </tr>
    <tr>

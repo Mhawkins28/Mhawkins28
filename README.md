@@ -2,7 +2,7 @@
 
 I started my coding journey at the end of 2021 and soon after, took the leap to change careers and attend bootcamp. In September 2022, I will be graduating with my certificate in software engineering from General Assembly, and I will never look back. I cannot wait to grow in this profession and continue to build more awesome projects!
 
-- 🌍  I'm based in New York, New York
+- 🌍  I'm based in Queens, New York
 - 🔭 I’m currently working on imroving [PinIt](https://github.com/Mhawkins28/PinIt-Frontend)
 - 🌱 I’m currently learning **more about React and React Redux and Native**
 - 📄 Check out my [Resume](https://mhawkins28.github.io/Resume/) and [LinkedIn](https://www.linkedin.com/in/mhawkins28/) or send me an email at megan.hawkins28@gmail.com to connect!

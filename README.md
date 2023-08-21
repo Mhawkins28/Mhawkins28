@@ -11,16 +11,16 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
      <td width="33%" valign="top">
       <h3>PinIt :pushpin:</h3>
         <br />
-        <p><a href="https://github.com/Mhawkins28/PinIt-Frontend">Repo</a> | <a href="https://jmmz-ga-p3places-ui.herokuapp.com/">Live App</a></p>
+        <p><a href="https://github.com/Mhawkins28/PinIt-Frontend">Repo</a>
         <br />
             <img src="https://media.giphy.com/media/PRtLcJGaijlZJrj8qY/giphy.gif" width="100%" alt="PinIt"/>
         </a>
-       <p> <br><br><br>A full-stack MERN, social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins.</p>
+       <p> <br><br><br>A full-stack MERN, social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins. </p>
     </td>
     <td width="33%" valign="top">
       <h3>Board Game Strategist :game_die:</h3>
         <br />
-        <p><a href="https://github.com/Mhawkins28/BoardGame_App">Repo</a> | <a href="http://boardgame-strategist-app2.herokuapp.com/auth">Live App</a></p>
+        <p><a href="https://github.com/Mhawkins28/BoardGame_App">Repo</a> | <a href="https://boardgame-tracker-226c45dc8181.herokuapp.com/">Live App</a></p>
         <br />
             <img src="https://media.giphy.com/media/94qPTyXQNGrjgya2jH/giphy.gif" width="100%" alt="PinIt"/>
         </a>

@@ -47,7 +47,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
 - 🌍 I'm based in Queens, New York
 - ⚖️ I worked as a lawyer for 2 years before I changed careers 
 - 🔭 I’m currently working on [LearnThai](https://github.com/Mhawkins28/LearnThai-CLIENT), a MERN app to help learn Thai and keep track of my progress!
-- 🌱 I’m currently learning more about **frameworks such as Next.js, and I'm also digging more into Typscript**
+- 🌱 I’m currently learning more about frameworks such as **Next.js**, and I'm also digging more into **Typescript**
 
 <h4 align="left">My Github Stats</h4>
 

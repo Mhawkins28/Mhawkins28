@@ -4,7 +4,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
 
 
 <details>
-  <summary>Check out some of my favorite projects! </summary>
+  <summary> Check out some of my favorite projects! </summary>
   <br>
   <table bordercolor="#66b2b2">
   <tr>

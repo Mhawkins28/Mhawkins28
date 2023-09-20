@@ -11,7 +11,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
      <td width="33%" valign="top">
       <h3>PinIt :pushpin:</h3>
         <br />
-        <p><a href="https://github.com/Mhawkins28/PinIt-Frontend">Repo</a>
+        <p><a href="https://github.com/Mhawkins28/PinIt-Frontend" >Repo</a>
         <br />
             <img src="https://media.giphy.com/media/PRtLcJGaijlZJrj8qY/giphy.gif" width="100%" alt="PinIt"/>
         </a>

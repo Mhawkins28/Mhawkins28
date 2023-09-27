@@ -55,7 +55,12 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
 
 <h4 align="left">My Github Stats</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhawkins28&show_icons=true&locale=en&layout=compact&title_color=1e3a8a&text_color=FFFFFF&bg_color=0891b2&bg&hide_border=true&show_icons=true" alt="mhawkins28" /></p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhawkins28&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mhawkins28&rank_icon=github&theme=dark" />
+</a>
 </details>
 
 

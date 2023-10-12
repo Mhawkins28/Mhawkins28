@@ -1,5 +1,5 @@
 <a href="https://meg-dev.netlify.app/">
-  <img src="./header.png" width="100%" />
+  <img src="./megan.png" width="100%" />
   </a>
 
   <p align="center">

@@ -55,7 +55,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <br />
             <img src="https://media.giphy.com/media/PRtLcJGaijlZJrj8qY/giphy.gif" width="100%" alt="PinIt"/>
         </a>
-       <p> <br><br><br>A full-stack MERN, social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins.  </p>
+       <p> <br><br><br>A full-stack MERN, social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins. </p>
     </td>
     <td width="33%" valign="top">
       <h3>Board Game Strategist :game_die:</h3>

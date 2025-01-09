@@ -1,6 +1,3 @@
-<a href="https://meg-dev.netlify.app/">
-  <img src="./Hawkins.png" width="100%" />
-  </a>
 
   <p align="center">
 
